@@ -17,8 +17,8 @@
 
 Joined Github **9** years ago.
 
-Since then I pushed **6069** commits, opened **95** issues, submitted **1147** pull requests, received **10** stars across **59** personal projects and contributed to **71** public repositories.
-
+<!-- Since then I pushed **6070** commits, opened **95** issues, submitted **1147** pull requests, received **10** stars across **59** personal projects and contributed to **71** public repositories.
+ -->
 <!-- Most used languages across my projects:
 
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B181.5%25)
@@ -33,4 +33,4 @@ Since then I pushed **6069** commits, opened **95** issues, submitted **1147** p
 
 [![Chaitanya's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=chaitanyapotti&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/chaitanyapotti)
 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+<!-- <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p> -->
