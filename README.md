@@ -17,13 +17,13 @@
 
 Joined Github **9** years ago.
 
-<!-- Since then I pushed **6086** commits, opened **95** issues, submitted **1153** pull requests, received **10** stars across **61** personal projects and contributed to **72** public repositories.
+<!-- Since then I pushed **6102** commits, opened **95** issues, submitted **1158** pull requests, received **10** stars across **61** personal projects and contributed to **72** public repositories.
  -->
 <!-- Most used languages across my projects:
 
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B181.5%25)
 ![XSLT](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23EB8CEB&message=XSLT%EF%B8%B19.2%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B14.6%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B14.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.9%25)
 ![Solidity](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23AA6746&message=Solidity%EF%B8%B10.5%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10.4%25)
